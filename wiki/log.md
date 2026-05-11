@@ -25,5 +25,4 @@ tags:
 
 ## 2026-05-11
 
-- 新增 `wiki/syntheses/HOTI-交互式学习笔记.md`，作为 HOTI 学习笔记的交互式作答、反馈和复盘框架。
-- 更新 `wiki/syntheses/README.md`，加入 HOTI 交互式学习笔记入口。
+- 按 `/Users/mac/Documents/mengjie/学习库/skill/交互式学习仓库/SKILL.md` 规则，新建 `HOTI/00-索引.md` 和 `HOTI/01.md`，将 HOTI 作为独立交互式学习课题推进。
